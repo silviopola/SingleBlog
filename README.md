@@ -1,5 +1,7 @@
 ## SingleBlog
 
+This execize was linked to an assignment that can be found in the repo -> Assigment.pdf
+
 SingleBlog is a Microsoft NET 5.0 Web API solution that provides a minimal set of API interface useful to implement a single blog backend.
 
 The main components/dependencies are:
