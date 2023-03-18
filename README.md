@@ -39,7 +39,7 @@ Installed extensions:
 
 It's possible to clone the public git repository with the command: 
 
-**git clone https&#58;//bitbucket.org/silviopola/singleblog.git**
+**git clone https://github.com/silviopola/SingleBlog.git**
 
 In Visual Studio IDE it's possible to compile and start the application in Debug/Release
 
